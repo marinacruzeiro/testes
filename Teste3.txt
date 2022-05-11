@@ -1,0 +1,37 @@
+Node10 entrou no messageManager()
+Node10 entrou no messageManager()
+Nodo que sentiu o evento : Node10
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Nodo que sentiu o evento : Node11
+Node14 entrou no messageManager()
+Node14 entrou no messageManager()
+Nodo que sentiu o evento : Node14
+Node15 entrou no messageManager()
+Node15 entrou no messageManager()
+Nodo que sentiu o evento : Node15
+Node10 entrou no messageManager()
+Node10 entrou no messageManager()
+[0, E0_0, -Infinity]
+Node10 mandou mensagem de WU para {event=E0_0,gateway=Node6}
+Node10 mandou mensagem de evento para {event=E0_0,gateway=Node6}
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou em inWU.hasToken()
+Não fez handshake Node11
+Não fez handshake e voltou
+[0, E0_0, -Infinity]
+Node11 mandou mensagem de WU para {event=E0_0,gateway=Node7}
+Node11 mandou mensagem de evento para {event=E0_0,gateway=Node7}
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()
+Node11 entrou no messageManager()

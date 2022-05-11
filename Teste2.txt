@@ -1,0 +1,133 @@
+Node14 entrou no messageManager()
+Nodo que sentiu o evento : Node14
+Node15 entrou no messageManager()
+Nodo que sentiu o evento : Node15
+Node14 entrou no messageManager()
+[0, E0_0, -Infinity]
+Node14 mandou mensagem de WU para {event=E0_0,gateway=Node10}
+Node14 mandou mensagem de evento para {event=E0_0,gateway=Node10}
+Node15 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node10}"
+Entrou em in.hasToken()
+Não era para Node15
+[0, E0_0, -Infinity]
+Node15 mandou mensagem de WU para {event=E0_0,gateway=Node11}
+Node15 mandou mensagem de evento para {event=E0_0,gateway=Node11}
+Node10 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node10}"
+Entrou em in.hasToken()
+Node10 recebeu mensagem 
+Node10 mandou mensagem de WU para {event=E0_0,gateway=Node6}
+Node10 mandou mensagem de evento para {event=E0_0,gateway=Node6}
+Node13 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node10}"
+Entrou em in.hasToken()
+Não era para Node13
+Node11 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node11}"
+Entrou em in.hasToken()
+Node11 recebeu mensagem 
+Node11 mandou mensagem de WU para {event=E0_0,gateway=Node7}
+Node11 mandou mensagem de evento para {event=E0_0,gateway=Node7}
+Node11 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node6}"
+Entrou em in.hasToken()
+Não era para Node11
+Node14 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node11}"
+Entrou em in.hasToken()
+Não era para Node14
+Node14 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node6}"
+Entrou em in.hasToken()
+Não era para Node14
+Node6 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node6}"
+Entrou em in.hasToken()
+Node6 recebeu mensagem 
+Node6 mandou mensagem de WU para {event=E0_0,gateway=Node2}
+Node6 mandou mensagem de evento para {event=E0_0,gateway=Node2}
+Node9 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node6}"
+Entrou em in.hasToken()
+Não era para Node9
+Node7 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node7}"
+Entrou em in.hasToken()
+Node7 recebeu mensagem 
+Node7 mandou mensagem de WU para {event=E0_0,gateway=Node3}
+Node7 mandou mensagem de evento para {event=E0_0,gateway=Node3}
+Node7 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node2}"
+Entrou em in.hasToken()
+Não era para Node7
+Node10 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node7}"
+Entrou em in.hasToken()
+Não era para Node10
+Node10 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node2}"
+Entrou em in.hasToken()
+Não era para Node10
+Node15 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node7}"
+Entrou em in.hasToken()
+Não era para Node15
+Node2 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node2}"
+Entrou em in.hasToken()
+Node2 recebeu mensagem 
+Node2 mandou mensagem de WU para {event=E0_0,gateway=NetworkMainGateway}
+Node2 mandou mensagem de evento para {event=E0_0,gateway=NetworkMainGateway}
+Node5 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node2}"
+Entrou em in.hasToken()
+Não era para Node5
+Node3 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node3}"
+Entrou em in.hasToken()
+Node3 recebeu mensagem 
+Node3 mandou mensagem de WU para {event=E0_0,gateway=Node2}
+Node3 mandou mensagem de evento para {event=E0_0,gateway=Node2}
+Node3 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=NetworkMainGateway}"
+Entrou em in.hasToken()
+Não era para Node3
+Node6 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node3}"
+Entrou em in.hasToken()
+Não era para Node6
+Node6 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=NetworkMainGateway}"
+Entrou em in.hasToken()
+Não era para Node6
+Node11 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node3}"
+Entrou em in.hasToken()
+Não era para Node11
+Node1 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=NetworkMainGateway}"
+Entrou em in.hasToken()
+Não era para Node1
+Node2 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node2}"
+Entrou em in.hasToken()
+Node2 recebeu mensagem 
+Node2 mandou mensagem de WU para {event=E0_0,gateway=NetworkMainGateway}
+Node2 mandou mensagem de evento para {event=E0_0,gateway=NetworkMainGateway}
+Node7 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=Node2}"
+Entrou em in.hasToken()
+Não era para Node7
+Node1 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=NetworkMainGateway}"
+Entrou em in.hasToken()
+Não era para Node1
+Node3 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=NetworkMainGateway}"
+Entrou em in.hasToken()
+Não era para Node3
+Node6 entrou no messageManager()
+Entrou em inWU: "{event=E0_0,gateway=NetworkMainGateway}"
+Entrou em in.hasToken()
+Não era para Node6
